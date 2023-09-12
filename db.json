@@ -1,0 +1,81 @@
+{
+  "seller": [
+    {
+      "name": "Md Abdullah Al Masum",
+      "email": "abdullah@seller.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Masum",
+      "email": "masum@seller.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Sadik",
+      "password": "1234",
+      "email": "sadik@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mahin",
+      "password": "1234",
+      "email": "mahin@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Masum2",
+      "email": "masum2@seller.com",
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14 pro",
+      "price": "1999",
+      "color": "White",
+      "category": "Mobile",
+      "description": "iPhone Product",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Green-3380.jpg",
+      "id": 1
+    },
+    {
+      "name": "Samsung Guru-music",
+      "price": "2300",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "A Samsung Product",
+      "image": "data:image/jpeg;base64,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",
+      "id": 2
+    },
+    {
+      "name": "Apple",
+      "price": "1,12,000",
+      "color": "White",
+      "category": "Laptop",
+      "description": "Apple product",
+      "image": "data:image/jpeg;base64,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",
+      "id": 3
+    },
+    {
+      "name": "Apple Minibook",
+      "price": "1,30,000",
+      "color": "Black",
+      "category": "Laptop",
+      "description": "Apple",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSALLmA-gdyIl0XbgLQpfXJb3-FVUtH7SaaXA&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "samsung s23 Ultra",
+      "price": "1,30,000",
+      "color": "green",
+      "category": "Mobile",
+      "description": "Samsung s serise phone",
+      "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Galaxy-S23-Ultra-Green-3380.jpg",
+      "id": 5
+    }
+  ]
+}

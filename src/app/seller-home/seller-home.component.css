@@ -1,0 +1,28 @@
+.product-list{
+    text-align: center;
+}
+.message-p{
+    color: #d14c4c;
+}
+table{
+    text-align: left;
+    color: #5d5d5d;
+    border-collapse: collapse;
+}
+
+table td, table th {
+    border: 1px solid #5d5d5d;
+    padding: 10px;
+    min-height: 160px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
+
+fa-icon{
+    text-align: center;
+    cursor: pointer;
+    padding: 8px;
+}
